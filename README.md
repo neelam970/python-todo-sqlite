@@ -15,5 +15,5 @@ A simple command-line To-Do List app built with Python and SQLite.
 
 ## Screenshot
 
-![To-Do List App Running](screenshot.png)
+![To-Do List App Running]([screenshot.png](https://github.com/neelam970/python-todo-sqlite/blob/main/Screenshot%202026-01-05%20162705.png))
 
