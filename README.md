@@ -13,7 +13,8 @@ A simple command-line To-Do List app built with Python and SQLite.
 1. Make sure you have Python installed
 2. Run: `my_todo_app.py`
 
+
 ## Screenshot
 
-![To-Do List App Running]([screenshot.png](https://github.com/neelam970/python-todo-sqlite/blob/main/Screenshot%202026-01-05%20162705.png))
+![To-Do List App Running](screenshot.png)
 
