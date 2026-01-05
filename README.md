@@ -1,4 +1,4 @@
-# Python To-Do List Manager
+# todo_app.py
 
 A simple command-line To-Do List app built with Python and SQLite.
 
